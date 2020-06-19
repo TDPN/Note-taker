@@ -1,0 +1,16 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "allows user to take notes, review notes, and delete notes",
+  "main": "server.js",
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "uuidv1": "^1.6.14"
+  }
+}
